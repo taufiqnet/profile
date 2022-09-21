@@ -26,3 +26,14 @@
 <p>
   1. A M A Consultant  
 </p>
+<h2>Experience</h2>
+<p>
+  1. Hospital Management System <br/>
+ <ul>Hospital Management System (HIS/ERP) Requirement Analysis, Quality Assurance, Testing and Implementation.</ul>
+3) Maintaining database backup and recovery infrastructure and end-to-end IT operations.
+4) Provide orientation/user training on ERP Software, application software, hardware and technologies.
+5) Maintaining current and accurate inventory of technology hardware, software and resources.
+6) Leads the IT team for draft training on documentation and guidelines for analysts and end users.
+7) Approve and handle IT vendors used by the organization, AMC, Support agreements, Review meetings.
+8) Monitoring and guiding team members to complete tasks priority basis.
+</p>
