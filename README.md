@@ -13,6 +13,16 @@
   </a>
 </div>
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Projects
 </h1>
+<h2>PHP / Laravel Applications</h2>
+<p>
+  1. Document Management System <br/>
+  2. Medical Records <br/>
+  3. Employee Management System <br/>
+  4. E-Commerce 
+</p>
+<h2>Website - Wordpress Development</h2>
+<p>
+  1. A M A Consultant  
+</p>
