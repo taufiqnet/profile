@@ -15,16 +15,12 @@
 <h1>
   Projects
 </h1>
-<h2>PHP / Laravel Applications</h2>
+<h2>Python Django Application</h2>
 <p>
   1. Document Management System <br/>
   2. Medical Records <br/>
   3. Employee Management System <br/>
   4. E-Commerce 
-</p>
-<h2>Website - Wordpress Development</h2>
-<p>
-  1. A M A Consultant  
 </p>
 <h2>Experience</h2>
 <p>
